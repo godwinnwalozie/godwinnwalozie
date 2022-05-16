@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 
-<img src=”https://user-images.githubusercontent.com/42586445/168683964-9beebb25-b182-4ef6-9f72-55f0c2150708.jpg
-" alt=”my banner”>
-
-
+<p align=”center”>
+<img width=”200" height=”200" src="https://user-images.githubusercontent.com/42586445/168683964-9beebb25-b182-4ef6-9f72-55f0c2150708.jpg" alt=”my banner”>
+</p>
 
 
 - 🔭 I’m currently working on ...
