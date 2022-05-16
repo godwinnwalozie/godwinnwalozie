@@ -3,10 +3,12 @@
 
 
 ## 🚀 About Me
-I'm a data- driven Sales - Revenue Operations and Strategy Specialist with over 11 years of experience in the IT SaaS Industry and very passionate about Data Science projects. 
+I'm a data- driven Sales - Revenue Operations and Strategy Specialist with over 11 years of experience in the IT SaaS Industry  .
+
+Very passionate about Data Science projects.        
 
 I posses great skills in data analytics ; Python Pandas, SQL, Matplotlib, Seaborn.
-## Looking to collaborate
+## 😃 Looking to collaborate
 
 I am open to learning and acquiring new skills
 
