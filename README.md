@@ -1,22 +1,22 @@
-### Hi I am Godwin
-👋
-<!--
-**godwinnwalozie/godwinnwalozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-<p align=”center”>
-<img width=”200" height=”200" src="https://user-images.githubusercontent.com/42586445/168683964-9beebb25-b182-4ef6-9f72-55f0c2150708.jpg" alt=”my banner”>
-</p>
+# Hi, I'm Godwin! 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-d
+## 🚀 About Me
+I'm a data- driven Sales - Revenue Operations and Strategy Specialist with over 11 years of experience in the IT SaaS Industry and very passionate about Data Science projects. 
+
+I posses great skills in data analytics ; Python Pandas, SQL, Matplotlib, Seaborn.
+## Looking to collaborate
+
+I am open to learning and acquiring new skills
+
+
+## 🛠 Skills
+Python , Pandas, Numpy, Matplotlib, Seaborn, SQL, Power BI, Tableau, IBM Cognos Analytics
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/godwinnwalozie/)
+
