@@ -31,4 +31,4 @@ I happy and willing to collborate inorder to improve my skills up to the level o
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 )](#)
 
-![Badges](https://user-images.githubusercontent.com/42586445/168947163-8e779d3a-57ec-43b4-8929-32d1cc2f8cc3.jpg)
+![Badges](https://user-images.githubusercontent.com/42586445/168947636-7cc97b5a-c408-42b2-92cd-ee4116fd7b43.jpg)
