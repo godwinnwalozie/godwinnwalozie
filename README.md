@@ -9,7 +9,7 @@ Career-wise, I have over 13 years of combined work experience in the consulting,
 I am very experienced in data analysis, exploration, manipulation and predictive analysis; working with   Python Pandas, Matplotlib, Seaborn, Scipy, SQL.
 Very passionate about Data Science, open source, digital products.
 
-I happy and willing to collborate inorder to further improve my skills up to the level of deep Machine learning and other scientific applications
+I happy and willing to collborate to further improve my skills up to the level of deep Machine learning and other scientific applications
 
 
 ## 👯 Communities and Networks
