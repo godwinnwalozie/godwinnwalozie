@@ -35,4 +35,4 @@ I happy and willing to collborate to further improve my skills up to the level o
 
 ## 📛 Badges
 
-![Badges](https://user-images.githubusercontent.com/42586445/168947636-7cc97b5a-c408-42b2-92cd-ee4116fd7b43.jpg)
+[![Badges](https://user-images.githubusercontent.com/42586445/168947636-7cc97b5a-c408-42b2-92cd-ee4116fd7b43.jpg)](#)
