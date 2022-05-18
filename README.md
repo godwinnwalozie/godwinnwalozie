@@ -7,7 +7,7 @@ Career-wise, I have over 13 years of combined work experience in the consultung 
 
 Havce held progressive roles in Sales and Revenue Operations ,Data Analyst, Business Intelligence and Strategy Specialist.
 Very passionate about Data Science -  Digital Product Management / Development.       
-I am also experience in data analysis skills working with  ; Python Pandas, Matplotlib, Seaborn, Scipy, SQL
+I am very experienced in data analysis, exploration, manipulation and predictive analysis; working with   Python Pandas, Matplotlib, Seaborn, Scipy, SQL
 Aspiring to improve my skills up to the level of Machine learning and other scientific applications
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//)  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/godwinnwalozie/)
