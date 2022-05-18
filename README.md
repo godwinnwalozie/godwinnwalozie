@@ -2,7 +2,9 @@
 # Hi, I'm Godwin! 👋 😎
 
 ## 🚀 About Me
-I'm a data- driven Sales - Revenue Operations and Strategy Specialist with over 14 years of combined work experience in consultung and IT SaaS Industry.
+I'm a data- driven Sales , a knack for numbers, tech savvy and a business leader.
+Career-wise, I have over 13 years of combined work experience in the consultung and IT SaaS Industry. 
+Havce held progressive roles as Sales and Revenue Operations specialist ,Data Analyst, Business Intelligence and Strategy Specialist.
 Very passionate about Data Science -  Digital Product Management / Development        
 I am also experience in data analysis skills working with  ; Python Pandas, Matplotlib, Seaborn, Scipy, SQL
 Aspiring to improve my skills up to the level of Machine learning and other scientific applications
