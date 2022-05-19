@@ -4,7 +4,7 @@
 ## 🚀 About Me
 Data - driven , detailed oriented, a knack for numbers, tech savvy, change champion and a business leader. 
 
-Career-wise, I have over 14 years of combined work experience in the consulting, B2B IT SaaS Industry. Have held progressive roles in Sales - Revenue Operations, as Data Analyst, Business Intelligence and Strategy Specialist.
+Career-wise, I have over 14 years of combined work experience in the consulting, B2B IT SaaS Industry . Have held progressive roles in Sales - Revenue Operations, Data and Business Intelligence and Strategy.
 
 I am very experienced in data analysis, exploration, manipulation and predictive analysis; working with   Python Pandas, Matplotlib, Seaborn, Scipy, SQL.
 Very passionate about Data Science, open source, digital products.
