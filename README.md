@@ -2,7 +2,7 @@
 # Hi, I'm Godwin! 👋 😎
 
 ## 🚀 About Me
-Data - driven , detailed oriented, a knack for numbers, tech savvy, change champion and a business leader. 
+Data - driven , detailed oriented,voracious learner, a knack for numbers, tech savvy, change champion and a business leader. 
 
 Career-wise, I have over 14 years of combined work experience in the consulting, B2B IT SaaS Industry . Have held progressive roles in Sales - Revenue Operations, Data and Business Intelligence and Strategy.
 
