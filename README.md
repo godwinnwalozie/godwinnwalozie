@@ -1,5 +1,5 @@
 
-# Hi, I'm Godwin! My friends call me Mazi👋 😎
+# Hi, I'm Godwin!    but my friends call me Mazi👋 😎
 
 ## 🚀 About Me
 Data - driven , detailed oriented, voracious learner, a knack for numbers, tech savvy, change champion and a business leader. 
