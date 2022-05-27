@@ -1,6 +1,6 @@
 
 # Hi, I'm Godwin! 🙋🏻‍♂️ but my friends call me Mazi😁 🇳🇬
-## *************************************************************************************************
+## ********************************************************************************************
 ## 🚀 About Me
 Data Data Data ! Always excited working with data.😀
 
@@ -12,7 +12,7 @@ I am very experienced in operations, data analysis, exploration, manipulation an
 
 I happy and willing to collaborate to further improve my skills up to the level of deep Machine learning and other scientific applications
 
-## *************************************************************************************************
+## ********************************************************************************************
 
 ## 👯 Communities and Networks
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//)  
@@ -21,7 +21,7 @@ I happy and willing to collaborate to further improve my skills up to the level 
         [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MaziGodwin/)
             [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6932684/godwin/)
 
-## *************************************************************************************************
+## ********************************************************************************************
 ## 💻⚒️ Skills and Technologies I work with
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
@@ -34,7 +34,7 @@ I happy and willing to collaborate to further improve my skills up to the level 
                                                                                                                                                                      [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](#)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 )](#)
-## *************************************************************************************************
+## ********************************************************************************************
 ## 📛 Badges
 ### [![Link to my badges]()](https://www.credly.com/users/godwin-nwalozie/badges)  
 
