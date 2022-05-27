@@ -2,9 +2,9 @@
 # Hi, I'm Godwin!    but my friends call me Mazi👋 😎
 
 ## 🚀 About Me
-Data Data Data ! Always excited working with data.
+Data Data Data ! Always excited working with data.😀
 
-Data - driven , detailed oriented, voracious learner, a knack for numbers, tech savvy, change champion and agile business operations leader. 
+Data - driven 📈 , detailed oriented, voracious learner 💪🏻, a knack for numbers 🔢, tech savvy 👾, change champion and agile business operations leader. 
 
 I have over 12 years of combined work experience in the consulting,B2B IT SaaS Industry . Have held progressive roles in Sales - Business Operations, Revenue Operations, Data and Business Intelligence and Strategy. As a trutsted advisor in operations, I have maneged average $35m a quarter revenue forcast to target, suppoting and providing business and analytical support for GTM strategy executions.
 
