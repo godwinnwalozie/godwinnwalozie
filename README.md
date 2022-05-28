@@ -1,5 +1,5 @@
 
-# Hi, I'm Godwin! 🙋🏻‍♂️ but my friends call me Mazi😁 🇳🇬
+# Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 
 
 ## 🚀 About Me
