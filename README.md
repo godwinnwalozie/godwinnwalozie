@@ -9,7 +9,7 @@ Data - driven 💹 , detailed oriented, voracious learner 💪🏾, a knack for 
 
 I have over 12 years of combined work experience in the consulting,B2B IT SaaS Industry . Have held progressive roles in Sales - Business Operations, Revenue Operations, Data and Business Intelligence and Strategy. As a trutsted advisor in operations, I have maneged average $35m a quarter revenue forcast to target, suppoting and providing business and analytical support for GTM strategy executions.
 
-I am very experienced in operations, data analysis, exploration, manipulation and predictive analysis; working with   Python Pandas,NumPy, Matplotlib, Seaborn, Scipy, SQL[PostgreSQL]. Very passionate about Data Science, open source, digital products.
+I am very experienced in operations, data analysis, exploration, manipulation and predictive analysis; working with   Python Pandas,NumPy, Matplotlib, Seaborn, Sk-Learn, PostgreSQL. Very passionate about tranformational projects with Data Science, open source, digital products.
 
 I happy and willing to collaborate to further improve my skills up to the level of deep Machine learning and other scientific applications
 
@@ -36,7 +36,7 @@ I happy and willing to collaborate to further improve my skills up to the level 
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 )](#)
 
-
+## 
 
 ![Github readme profile](https://user-images.githubusercontent.com/42586445/170844660-f114e5cb-6dcb-42b1-9966-353b9c51740c.jpg)
 
