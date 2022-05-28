@@ -37,10 +37,11 @@ I happy and willing to collaborate to further improve my skills up to the level 
 )](#)
 
 
+
+![Github readme profile](https://user-images.githubusercontent.com/42586445/170844660-f114e5cb-6dcb-42b1-9966-353b9c51740c.jpg)
+
 ## 📛 Badges
 ### [![Link to my badges]()](https://www.credly.com/users/godwin-nwalozie/badges)  
 
 
 [![Badges](https://user-images.githubusercontent.com/42586445/168947636-7cc97b5a-c408-42b2-92cd-ee4116fd7b43.jpg)](#)
-
-![Github readme profile](https://user-images.githubusercontent.com/42586445/170844446-b6224336-b6ee-4779-8d62-11d2f44865be.jpg)
