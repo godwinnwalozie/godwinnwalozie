@@ -31,14 +31,13 @@ I happy and willing to collaborate to further improve my skills up to the level 
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](#)
 [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+[![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](#)
                                                                                                                                                                      [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](#)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 )](#)
 
-## 
-
-![Github readme profile](https://user-images.githubusercontent.com/42586445/170844660-f114e5cb-6dcb-42b1-9966-353b9c51740c.jpg)
 
 ## 📛 Badges
 ### [![Link to my badges]()](https://www.credly.com/users/godwin-nwalozie/badges)  
