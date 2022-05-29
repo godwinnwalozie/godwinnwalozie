@@ -43,4 +43,4 @@ I happy and willing to collaborate to further improve my skills up to the level 
 ### [![Link to my badges]()](https://www.credly.com/users/godwin-nwalozie/badges)  
 
 ## 
-[![Badges](https://user-images.githubusercontent.com/42586445/168947636-7cc97b5a-c408-42b2-92cd-ee4116fd7b43.jpg)](#)
+[![Badges](https://user-images.githubusercontent.com/42586445/170858189-720b2208-79a8-46f6-91e0-94fa906a1662.jpg)](#)
