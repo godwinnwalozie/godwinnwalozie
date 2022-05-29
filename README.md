@@ -1,21 +1,20 @@
 
-# Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
+## Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 
+## 👀 How I See Myself
+Agile, detailed oriented, voracious learner 💪🏾, a knack for numbers 🔢, tech savvy 👾, change champion, Sales and business operations leader. 
 
-## 🚀 About Me
-Data Data Data ! Always excited working with data, because I always find something new and interesting 😀
+## 🚀🔥 My Passion
+I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
 
-I am highly adaptable , detailed oriented, voracious learner 💪🏾, a knack for numbers 🔢, tech savvy 👾, change champion and business operations leader. 
+## 💪💼 My Expereince
+I have over 12 years of combined work experience in the consulting,B2B IT SaaS Industry . Have held progressive roles in Sales - Business Operations, Revenue Operations, Data and Business Intelligence and Strategy. As a trutsted advisor in operations, I have maneged average $35m a quarter revenue forcast to target, suppoting and providing business and analytical driven insights to support GTM strategy executions and growth.
 
-I have over 12 years of combined work experience in the consulting,B2B IT SaaS Industry . Have held progressive roles in Sales - Business Operations, Revenue Operations, Data and Business Intelligence and Strategy. As a trutsted advisor in operations, I have maneged average $35m a quarter revenue forcast to target, suppoting and providing business and analytical support for GTM strategy executions.
-
-I am very experienced in operations, data analysis, exploration, manipulation and predictive analysis; working with   Python Pandas,NumPy, Matplotlib, Seaborn, Sk-Learn, PostgreSQL. Very passionate about tranformational projects with Data Science, open source, digital products.
-
+##
 I happy and willing to collaborate to further improve my skills up to the level of deep Machine learning and other scientific applications
 
-
 ## 
-## 👯 Communities and Networks
+## 👯🌍 Communities and Networks
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/godwinnwalozie/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/godwinnwalozie/)
