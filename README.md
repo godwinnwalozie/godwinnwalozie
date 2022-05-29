@@ -5,6 +5,8 @@
 Agile, detailed oriented, voracious learner 💪🏾, a knack for numbers 🔢, tech savvy 👾, change champion, Sales and business operations leader. 
 
 ## 🚀🔥 My Passion
+Passion = People + Data Science + Tools + Processes
+
 I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
 
 ## 💪💼 My Expereince
