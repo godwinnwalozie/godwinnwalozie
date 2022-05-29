@@ -2,14 +2,14 @@
 ## Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 
 ## 👀 How I See Myself
-Agile, detailed oriented, voracious learner 💪🏾, a knack for numbers 🔢, tech savvy 👾, change champion, sales - business operations leader and a great sense of humour.
+Agile, detailed oriented, voracious learner, a knack for numbers, tech savvy, change champion, sales - business operations leader and a great sense of humour.
 
 ## 🚀🔥 My Passion
 Passion = People + Data Science + Tools + Processes
 
 I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
 
-## 💪💼 My Expereince
+## 💪🏾💼 My Expereince
 Iver 12 years of combined work experience in the consulting,B2B IT SaaS Industry . Have held progressive roles in Sales - Business Operations, Revenue Operations, Data and Business Intelligence and Strategy. As a trutsted advisor in operations, I have maneged average $35m a quarter revenue forcast to target, suppoting and providing business and analytical driven insights to support GTM strategy executions and growth.
 I have spearheaded various transformational projects that impacted positively on business performance, cultural effectiveness and process agility.
 
@@ -25,7 +25,7 @@ I happy and willing to collaborate to further improve my skills up to the level 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6932684/godwin/)
 
 ## 
-## 💻⚒️ Skills and Technologies I work with
+## 💻⚒️🔢 Skills and Technologies I work with
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](#)
