@@ -15,7 +15,7 @@ I managed on the average $35m a quarter revenue forcast to target, suppoting and
 I have spearheaded various transformational projects that impacted positively on business performance, cultural effectiveness and process agility.
 
 ##
-I happy and willing to collaborate to further improve my skills up to the level of deep Machine learning and other scientific applications
+I happy and willing to collaborate to further improve my skills in AI Machine learning and other scientific applications
 
 ## 
 ## 👯🌍 Communities and Networks
