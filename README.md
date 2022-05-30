@@ -10,7 +10,8 @@ Passion = People + Data Science + Tools + Processes
 I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
 
 ## 💪🏾💼 My Expereince
-Iver 12 years of combined work experience in the consulting,B2B IT SaaS Industry . Have held progressive roles in Sales - Business Operations, Revenue Operations, Data and Business Intelligence and Strategy. As a trutsted advisor in operations, I have maneged average $35m a quarter revenue forcast to target, suppoting and providing business and analytical driven insights to support GTM strategy executions and growth.
+Over 12 years of combined work experience in B2B IT SaaS Industry , as Sales and Business Operations, data driven strategy advisor working with data.
+I managed on the average $35m a quarter revenue forcast to target, suppoting and providing business and analytical driven insights to support GTM strategy executions and growth.
 I have spearheaded various transformational projects that impacted positively on business performance, cultural effectiveness and process agility.
 
 ##
