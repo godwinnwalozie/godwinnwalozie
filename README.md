@@ -5,7 +5,6 @@
 Call me an agile, detailed oriented, keen - voracious learner. I have a knack for numbers, tech savvy, a change champion, sales - business operations leader ,and a great sense of humour.
 
 ## 🚀🔥 My Passion
-My Passion = Projects { Operations, People, Data Analysis, Data Science , Visualization, Machine Learning, Tools, CRM }
 
 I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
 
