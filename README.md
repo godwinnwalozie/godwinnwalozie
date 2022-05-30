@@ -2,7 +2,7 @@
 ## Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 
 ## 👀 How I View Myself
-Agile, detailed oriented, voracious learner, a knack for numbers, tech savvy, change champion, sales - business operations leader and a great sense of humour.
+Call me an agile, detailed oriented, voracious learner. I have a knack for numbers, tech savvy, a change champion, sales - business operations leader ,and a great sense of humour.
 
 ## 🚀🔥 My Passion
 Passion = People + Data Science + Tools + Processes
