@@ -24,7 +24,3 @@ I happy and willing to collaborate to further improve my skills on Machine learn
                                                                                                                                                                      [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](#)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 )](#)
-
-## 
-## 📛 Badges
-### [![Link to my badges]()](https://www.credly.com/users/godwin-nwalozie/badges)  
