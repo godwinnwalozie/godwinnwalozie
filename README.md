@@ -1,6 +1,6 @@
 
 ### Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
-I enjoy exploring , transforming and anlyzing data, open source, predictive analysis with supervised models...... 
+I enjoy working with data, open source, predictive analysis with supervised model and applying them to solve real life problems
 #
 ###🌍 Communities and Networks | 💻⚒️ Technologies I work with
 #
