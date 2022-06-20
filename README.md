@@ -1,13 +1,8 @@
 
 ## Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 
-## 👀 How I View Myself
-Adaptable, agile, detailed oriented, keen - voracious learner, love working with numbers, strong passion for data science, tech savvy, a change champion, sales - business operations leader ,and a great sense of humour.
-
-## 🚀🔥 My Passion
-
-I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
-
+## 👀 How I View Myself  | ## 🚀🔥 My Passion
+Adaptable, agile, detailed oriented, keen - voracious learner, love working with numbers, strong passion for data science, tech savvy, a change champion, sales - business operations leader ,and a great sense of humour. I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
 
 ##
 I happy and willing to collaborate to further improve my skills on Machine learning and scientific applications
@@ -20,7 +15,6 @@ I happy and willing to collaborate to further improve my skills on Machine learn
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MaziGodwin/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6932684/godwin/)
 
-## 
 ## 💻⚒️🔢 Skills and Technologies I work with
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
