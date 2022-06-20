@@ -1,9 +1,6 @@
 
 ## Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
-
-## 👀 How I View Myself  | ## 🚀🔥 My Passion
-Adaptable, agile, detailed oriented, keen - voracious learner, love working with numbers, strong passion for data science, tech savvy, a change champion, sales - business operations leader ,and a great sense of humour. I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
-
+I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models.
 ##
 I happy and willing to collaborate to further improve my skills on Machine learning and scientific applications
 
