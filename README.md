@@ -1,9 +1,7 @@
 
 # Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models.
-#
 I happy and willing to collaborate to further improve my skills on Machine learning and scientific applications
-
 ## 
 ## 👯🌍 Communities and Networks | 💻⚒️🔢 Skills and Technologies I work with
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//) 
