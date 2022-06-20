@@ -9,12 +9,12 @@ Adaptable, agile, detailed oriented, keen - voracious learner, love working with
 I enjoy working with people, in operations, strategy, with data, with tools, on tranformational projects, with Data Science, open source, digital products, exploration, manipulation and predictive analysis with supervised models- Sklearn 😀
 
 ## 💪🏾💼 My Expereince
-Over 10 years of combined work experience in B2B IT SaaS Industry , as Sales and Business Operations, data driven strategy advisor working with data.
+Over 10 years of combined work experience in B2B IT SaaS Industry , as Sales Strategy and Business Operations, data driven strategy advisor working with data.
 I have managed on the average $35m a quarter revenue forcast to target, suppoting and providing teams with business and analytical driven insights to support GTM strategy executions to delivery client value and successes.
-I also spearheaded critical transformational projects that impacted positively on business performance, cultural effectiveness and process agility.
+I also spearheaded critical transformational projects that impacted positively on business performance, cultural effectiveness and agile.
 
 ##
-I happy and willing to collaborate to further improve my skills in AI Machine learning and other scientific applications
+I happy and willing to collaborate to further improve my skills on Machine learning and scientific applications
 
 ## 
 ## 👯🌍 Communities and Networks
