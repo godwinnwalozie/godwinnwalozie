@@ -30,6 +30,3 @@ I happy and willing to collaborate to further improve my skills on Machine learn
 ## 
 ## 📛 Badges
 ### [![Link to my badges]()](https://www.credly.com/users/godwin-nwalozie/badges)  
-
-## 
-[![Badges](https://user-images.githubusercontent.com/42586445/170858189-720b2208-79a8-46f6-91e0-94fa906a1662.jpg)](#)
