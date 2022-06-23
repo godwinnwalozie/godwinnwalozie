@@ -2,7 +2,7 @@
 ### Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 I enjoy working with data, open source, predictive analysis with supervised model and applying them to solve real life problems
 #
-###🌍 Communities and Networks | 💻⚒️ Technologies I work with
+🌍 Communities and Networks | 💻⚒️ Technologies I work with
 #
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/godwinnwalozie/)
