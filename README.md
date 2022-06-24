@@ -3,7 +3,6 @@
 I enjoy working with data, open source, predictive analysis with supervised model and applying them to solve real life problems
 #
 ### I belong to these communities ..🌍 and enjoy working with these technologies ⚒️..
-#
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/godwinnwalozie/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/godwinnwalozie/) ---->
