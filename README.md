@@ -1,6 +1,6 @@
 
 ### Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
-I enjoy working with data, open source tools, predictive analysis with supervised model and applying them to solve real life problems.
+I enjoy working with data, passionate about python programming, open source tools, predictive analysis with supervised model and applying them to solve real life problems.
 Lets collborate !!
 #
 ### I belong to these communities ..🌍 and enjoy working with these technologies ⚒️..
