@@ -1,5 +1,5 @@
 ## “Without data you’re just another person with an opinion.”  Edwards Deming, Statistician
-#
+
 # Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 
 I have vast experience in sales operations, revenue operations , which I amplify with extensive data science skills. 
