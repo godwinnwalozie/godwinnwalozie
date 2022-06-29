@@ -1,7 +1,7 @@
 ### “Without data you’re just another person with an opinion.”  Edwards Deming, Statistician
 #### Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 
-I enjoy leveraging data to solving business problems, driving and delivering success in sales, revenue operations, and strategy devlopment. A strong passion for exploration, manipulation, and analysis of datasets. A python programming enthusiast that appreciates using open source tools, always looking to performing predictive analysis, creating models and applying them to real-world problems.
+I enjoy leveraging data to solve business problems. Many years of driving and delivering success in sales oerations , revenue and strategy devlopment. A strong passion for exploration, manipulation, and analysis of datasets. A python programming enthusiast that appreciates using open source tools, always looking to performing predictive analysis, creating models and applying them to real-world problems.
 #
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/godwinnwalozie/)
