@@ -1,9 +1,9 @@
 ### “Without data you’re just another person with an opinion.”  Edwards Deming, Statistician
 #### Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
 
-10+ years of extensive experience in the SaaS B2B industry, in fields of operations, data intelligence and revenue stratgy ,and collborating with teams to transform business problems to value.
-I've had the good fortune to work closely with technical teams, which fueled my passion for coding, particularly in the fields of exploratory data analysis, data science, and machine learning.
-A Python programming enthusiast who enjoys using open source tools and is constantly looking to perform predictive analysis, create models, and apply them to real-world problems.
+Many years of proven experience in the SaaS B2B industry, in fields of operations, data intelligence and revenue strategy ,where I worked closly with teams to transform business problems to value.
+I've had the good fortune to work closely with technical teams, which fueled my passion for coding, particularly in the fields of data science - and machine learning. I am indeed happy to have a fuse of both business and technical skills. 😁 
+I also love using open source software tools, and appreciate the large community for the value it has created.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/godwinnwalozie/)
