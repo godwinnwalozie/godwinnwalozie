@@ -1,5 +1,6 @@
-### “Without data you’re just another person with an opinion.”  Edwards Deming, Statistician
-#### Hi, I'm Godwin! 🙋🏻‍♂️ 🇳🇬 , but my friends call me Mazi 😁 
+𝗜'𝗺 𝗚𝗼𝗱𝘄𝗶𝗻 ! 🙋🏻‍♂️ 🇳🇬 , 𝗺𝘆 𝗳𝗿𝗶𝗲𝗻𝗱𝘀 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗠𝗮𝘇𝗶 😁
+#
+𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗺𝗶𝗻𝗱𝘀𝗲𝘁 𝘄𝗶𝘁𝗵 𝗴𝗿𝗲𝗮𝘁 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 💵, 𝗽𝗲𝗼𝗽𝗹𝗲🤝🏼 𝗮𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 -𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀 🛠️
 
 Many years of proven experience in the SaaS B2B industry, in fields of operations, data intelligence and revenue strategy ,where I worked closly with teams to transform business problems to value.
 I've had the good fortune to work closely with technical teams, which fueled my passion for coding, particularly in the fields of data science - and machine learning. I am indeed happy to have a fuse of both business and technical skills. 😁 
