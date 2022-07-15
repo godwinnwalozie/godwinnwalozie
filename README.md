@@ -2,7 +2,7 @@
 #
 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗺𝗶𝗻𝗱𝘀𝗲𝘁 𝘄𝗶𝘁𝗵 𝗴𝗿𝗲𝗮𝘁 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 💵, 𝗽𝗲𝗼𝗽𝗹𝗲🤝🏼 𝗮𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 -𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀 🛠️
 
-Many years of proven experience in the SaaS B2B industry, in fields of operations, data intelligence and revenue strategy ,where I worked closely with mutli diverse - cross functional teams to transform business problems to value.
+Many years of proven experience in the SaaS B2B industry, in fields of operations, data intelligence and revenue strategy ,where I worked closely with mutli diverse - cross functional teams to transform business problems into value.
 #
 I've had the good fortune to work closely with technical teams, which fueled my passion for coding, particularly in the fields of data science - and machine learning. I am indeed happy to have grown my skills in these areas, blending both business and technical skills. 😁 
 I also love using open source software tools, and appreciate the large community for the value it has created.
