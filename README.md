@@ -1,11 +1,9 @@
-𝗜'𝗺 𝗚𝗼𝗱𝘄𝗶𝗻 ! 🙋🏻‍♂️ 🇳🇬 , 𝗺𝘆 𝗳𝗿𝗶𝗲𝗻𝗱𝘀 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗠𝗮𝘇𝗶 😁
-#
-𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗺𝗶𝗻𝗱𝘀𝗲𝘁 𝘄𝗶𝘁𝗵 𝗴𝗿𝗲𝗮𝘁 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 💵, 𝗽𝗲𝗼𝗽𝗹𝗲🤝🏼 𝗮𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 -𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀 🛠️
-
-Many years of proven experience in the SaaS B2B industry, in fields of operations, data intelligence and revenue strategy ,where I worked closely with mutli diverse - cross functional teams to transform business problems into value.
-#
-I've had the good fortune to work closely with technical teams, which fueled my passion for coding, particularly in the fields of data science - and machine learning. I am indeed happy to have grown my skills in these areas, blending both business and technical skills. 😁 
-I also love using open source software tools, and appreciate the large community for the value it has created.
+* 𝗜'𝗺 𝗚𝗼𝗱𝘄𝗶𝗻 ! 🙋🏻‍♂️ 🇳🇬 , 𝗺𝘆 𝗳𝗿𝗶𝗲𝗻𝗱𝘀 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗠𝗮𝘇𝗶 😁
+* 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗺𝗶𝗻𝗱𝘀𝗲𝘁 𝘄𝗶𝘁𝗵 𝗴𝗿𝗲𝗮𝘁 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 💵, 𝗽𝗲𝗼𝗽𝗹𝗲🤝🏼 𝗮𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 -𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀 🛠️
+* Extensive career in eperience in the SaaS B2B industry, in fields of operations, data intelligence and revenue strategy
+* Experienced working with mutli diverse - cross functional teams to transform business problems into value.
+* Great passion for python programming, data analysis, data science - and machine learning.
+* I also love using open source software tools, and appreciate the large community for the value it has created.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinnwalozie//)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/godwinnwalozie/)
