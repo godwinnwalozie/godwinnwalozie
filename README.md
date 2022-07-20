@@ -1,5 +1,5 @@
 * 👋 𝗜'𝗺 𝗚𝗼𝗱𝘄𝗶𝗻 ! 🙋🏻‍♂️ 🇳🇬 , 𝗺𝘆 𝗳𝗿𝗶𝗲𝗻𝗱𝘀 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗠𝗮𝘇𝗶 😁
-* 💼 10+ years extensive career eperience in the SaaS B2B industry, in the fields business -sales operations,revenue strategy, data intelligence and Science.
+* 💼 10+ years extensive career eperience in the SaaS B2B industry, in consulting, business -sales operations,revenue strategy, data intelligence and Science.
 * 👥 Experienced working with mutli diverse - cross functional teams to transform business problems into value.
 * 👨‍💻 Great passion for python programming- and machine learning.
 * ⚒️ Love using open source software tools, and appreciate the large community for the value it has created.
